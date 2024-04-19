@@ -6,7 +6,7 @@ export default function HomePage() {
     <Layout>
       <Hero
         title="Landing template for startups"
-        content="Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever."
+        content="📢 Attention #AlphaltCommunity! We're thrilled to announce an exclusive airdrop for our early contributors. 🌟 Be part of our journey and secure your spot in the future of finance. Submit your email now to join the airdrop list! 🚀 #AlphaltAirdrop #CryptoInnovation #JoinUs"
         illustration={<HeroIllustration />}
       />
     </Layout>
